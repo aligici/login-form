@@ -1,1 +1,1 @@
-![My Image](imageswallpaperflare.com_wallpaper.jpg)
+![My Image](images/wallpaperflare.com_wallpaper.jpg)
